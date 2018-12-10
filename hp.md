@@ -1,12 +1,3 @@
-# PlayStation
+#HP
 
-PlayStation _(プレイステーション Pureisutēshon_, oficialmente abreviada como PS1) es una videoconsola de sobremesa de 32 bits lanzada por **Sony Computer Entertainment** el 3 de diciembre de 1994 en Japón. Se considera la videoconsola más exitosa de la quinta generación tanto en ventas como en popularidad. Además de la original se lanzó la PSone. Tuvo gran éxito al implantar el CD-ROM dentro de su hardware a pesar de que otras compañías como SEGA (Sega CD), Panasonic (3DO), Phillips (CD-i), SNK (Neo Geo CD), NEC (Super CD ROM) y Atari (Atari Jaguar) ya lo habían empleado. Dichas compañías tuvieron poco éxito al utilizar el CD-ROM como soporte para almacenar juegos. Se estima que Sony logró vender 105 500 000 unidades de su videoconsola en 10 años. La consola dejó de fabricarse en 2006.
-
-## Consolas PlayStation
-* PS1
-* PSone
-* PS2
-* PS3
-* PS4
-* PSP
-* PSVita
+**Hewlett-Packard**, más conocida como **HP**, es una empresa estadounidense, de las mayores empresas de tecnologías de la información del mundo, con sede en Palo Alto, California. Fabricaba y comercializaba hardware y software además de brindar servicios de asistencia relacionados con la informática.
