@@ -8,3 +8,4 @@ Xbox fue la primera videoconsola de sobremesa producida por **Microsoft**, en co
 * Halo
 * FIFA
 * GTA San Adreas
+* Halo 2
